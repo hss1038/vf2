@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    안녕하세요? 이것은 집에서 수정함
+    안녕하세요? 이것은 집에서 수정함....
     <div id="nav">
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link>
